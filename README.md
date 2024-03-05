@@ -6,9 +6,9 @@ I am currently and student at CodeSpace Academy studying software development. I
 JS / HTML / CSS / Java / C++ / python
 
 - 🔭 Here is some of my works:
-           https://sbarou339portfolio.netlify.app/
-           https://cachebank.netlify.app/
-           https://preeminent-dusk-237325.netlify.app/
+  - https://sbarou339portfolio.netlify.app/
+  - https://cachebank.netlify.app/
+  - https://preeminent-dusk-237325.netlify.app/
   
 - 🌱 I’m currently learning Front-end development 
 
