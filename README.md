@@ -1,4 +1,4 @@
-<img src="IMG-20240124-WA0081.jpg" width="500" height="250">
+<img src="IMG-20240124-WA0081.jpg" width="500" height="400">
 # Sbabalwe Roux
 I am currently and student at CodeSpace Academy studying software development. I am enjoying front-end development as I am getting well-versed in it, the languages, frameworks, etc. I very analytical thinker and problem solver. I always strive to be better at everything I do. I am a very outgoing human being and a good public speaker. I love being in the midst of people
 
