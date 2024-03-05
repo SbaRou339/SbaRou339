@@ -5,7 +5,11 @@ I am currently and student at CodeSpace Academy studying software development. I
 ## Skills and Experience 
 JS / HTML / CSS / Java / C++ / python
 
-- 🔭 I’m currently working on https://sbarou339portfolio.netlify.app/ 
+- 🔭 Here is some of my works:
+           https://sbarou339portfolio.netlify.app/
+           https://cachebank.netlify.app/
+           https://preeminent-dusk-237325.netlify.app/
+  
 - 🌱 I’m currently learning Front-end development 
 
 [![Sbabalwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SbaRou339)](https://github.com/SbaRou339/github-readme-stats)
