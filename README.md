@@ -6,18 +6,18 @@ I am currently and student at CodeSpace Academy studying software development. I
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS logo" width="30px" height="30px">    <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="html logo" width="30px" height="30px"> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLtlMYQNeGP2u6r-rfEb8mlzmEQyzbWskVv0AsxLvjw&s" alt="css logo" width="30px" height="30px">   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java logo" width="30px" height="30px">   <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++ logo" width="30px" height="30px">   <img src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" alt="python logo" width="30px" height="30px">
 
-##Tools and Technologies
+## Tools and Technologies
 - Git
 - Github
 - Visual Studio Code
 - React
 
-##🔭 Check out some of my projects:
+## 🔭 Check out some of my projects:
   - https://sbarou339portfolio.netlify.app/
   - https://cachebank.netlify.app/
   - https://preeminent-dusk-237325.netlify.app/
   
-##🌱 Currently Learning:
+## 🌱 Currently Learning:
 Front-end development techniques to enhance user experiences and create more dynamic web applications.  
 
 [![Sbabalwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SbaRou339&theme=tokyonight)](https://github.com/SbaRou339/github-readme-stats)
