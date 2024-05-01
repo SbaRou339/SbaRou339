@@ -20,8 +20,11 @@ I am currently and student at CodeSpace Academy studying software development. I
 ## 🌱 Currently Learning:
 Front-end development techniques to enhance user experiences and create more dynamic web applications.  
 
+## 📊 GitHub Stats:
 [![Sbabalwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SbaRou339&theme=tokyonight)](https://github.com/SbaRou339/github-readme-stats)
 
+## 📚 Top Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SbaRou339&theme=tokyonight)
 
+## 📫 Let's Connect:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SbaRoux339)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sbabalwe-roux-551991170//)  
